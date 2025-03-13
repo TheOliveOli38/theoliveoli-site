@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Oli's Internet Corner</title>
+        <link rel="icon" type="image/png" href="/favicon.png">
+        <link rel="stylesheet" href="7.css">
+    </head>
+    <style>
+        .flex-container {
+            display: flex;
+            justify-content: center;
+        }
+        .window-flex {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .flex-container > div {
+            margin: 2vw 2.5%;
+        }
+    </style>
+    <body style="margin: 0">
+        <img src="assets/img0.jpg" style="position: absolute; z-index: -1; width: 100vw; height: 100vh; object-fit: cover">
+        <div class="flex-container">
+            <div>
+                <a href="index.html">
+                    <img src="assets/home.png" style="z-index: 2; width: 40px; margin-left: 0px; margin-top: 0px">
+                    <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; width: 40px; text-align: center; color: white">Home Page</p>
+                </a>
+            </div>
+            <div>
+                <a href="about.html">
+                    <img src="assets/info.png" style="z-index: 2; width: 40px; margin-left: 0px; margin-top: 0px">
+                    <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; width: 40px; text-align: center; color: white">About Me!</p>
+                </a>
+            </div>
+            <div>
+                <a href="stuff.html">
+                    <img src="assets/explorer.png" style="z-index: 2; width: 40px; margin-left: 0px; margin-top: 0px">
+                    <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; width: 40px; text-align: center; color: white">My Stuff</p>
+                </a>
+            </div>
+            <div>
+                <a href="links.html">
+                    <img src="assets/hand.png" style="z-index: 2; height: 40px; margin-left: 0px; margin-top: 0px">
+                    <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; width: 40px; text-align: center; color: white">My Links</p>
+                </a>
+            </div>
+            <div>
+                <a href="chat.html">
+                    <img src="assets/msgicon.png" style="z-index: 2; width: 40px; margin-left: 0px; margin-top: 0px">
+                    <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; width: 40px; text-align: center; color: white">Live Chat</p>
+                </a>
+            </div>
+            <div>
+                <a href="aeroring.html">
+                    <img src="assets/aeroring.gif" style="z-index: 2; width: 40px; margin-left: 0px; margin-top: 0px">
+                    <p style="font-size: 16px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; width: 40px; text-align: center; color: white">Aero Ring</p>
+                </a>
+            </div>
+        </div>
+        <div class="window-flex">
+            <div class="window glass active" style="max-width: 90%; max-height: 75vh">
+                <div class="title-bar">
+                    <div class="title-bar-text">AeroRing</div>
+                    <div class="title-bar-controls">
+                        <button aria-label="Minimize"></button>
+                        <button aria-label="Maximize" disabled></button>
+                        <button aria-label="Close"></button>
+                    </div>
+                </div>
+                <div class="window-body has-space" style="max-height: 65vh; overflow-y: scroll">
+                    <section
+                        class="tabs">
+                        <menu role="tablist" aria-label="Tabs">
+                            <button role="tab" aria-controls="tab-A" aria-selected="true">The Webring</button>
+                            <button role="tab" aria-controls="tab-B">Aero Corner!</button>
+                        </menu>
+                        <article role="tabpanel" id="tab-A">
+                            <p style="font-size: 24px; margin-top: -5px; margin-bottom: -5px">
+                                <b>This is AeroRing!</b>
+                            </p>
+                            <p style="font-size: 20px; margin-top: 2px; margin-bottom: 2px">
+                                <b>The Webring for Frutiger Aero and 2000s computing.</b>
+                            </p>
+                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">The rules:</p>
+                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">1. Be a Frutiger Aero/2000s computing enjoyer!</p>
+                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">2. Have something related to Frutiger Aero/2000s computing (for example, a website, OS customization, hardware, etc.) that can be showcased in the Aero Corner!</p>
+                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">You can join the webring by sending me your preferred username for the webring, as well as your website and what you want to showcase through either Discord (@theoliveoli) or through E-Mail. (theoliveoli38@gmail.com)</p>
+                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Once you were added, you can add the following to your website:</p>
+                            <textarea style="width: 100%; font: monospace; font-size: 16px; height: 30px"><script src="https://theoliveoli.blahaj.land/aeroring/pmoring.js"></script></textarea>
+                        </article>
+                        <article role="tabpanel" id="tab-B" hidden="">
+                            <p style="font-size: 24px; margin-top: -5px; margin-bottom: -5px">
+                                <b>Welcome to Aero Corner!</b>
+                            </p>
+                            <p style="font-size: 20px; margin-top: 2px; margin-bottom: 2px">
+                                <b>The Aero Corner is currently not optimized for mobile devices. Expect having to scroll to the side to see the full images.</b>
+                            </p>
+                            <br>
+                            <img src="assets/blog/frutigermac.png" style="height: 400px">
+                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">TheOliveOli (<a href="https://theoliveoli.blahaj.land">theoliveoli.blahaj.land</a>) - Mac OS Leopard styled macOS customization and this very website!</p>
+                        </article>
+                    </section>
+                    <script src="script.js"></script>
+                </div>
+            </div>
+        </body>
+    </body>
+</html>
