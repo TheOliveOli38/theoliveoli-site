@@ -34,4 +34,4 @@ And finally, there's iTunes, which you can install fairly easily with Retroactiv
 
 This is how my current setup looks!
 
-[A macOS Monterey install customized to look like Mac OS X Snow Leopard.](../assets/blog/frutigermac.png)
+[A macOS Monterey install customized to look like Mac OS X Snow Leopard.](../../assets/blog/frutigermac.png)
