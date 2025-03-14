@@ -4,7 +4,7 @@
 **Most of the time, I learn something new every day. Here's a little collection of them!**
 
 ---
-**March 12th, 2025** - Using 11ty (or similar SSG's) actually isn't too difficult!
+**March 13th, 2025** - Using 11ty (or similar SSG's) actually isn't too difficult!
 
 **March 12th, 2025** - TypeScript is developed by Microsoft.
 
