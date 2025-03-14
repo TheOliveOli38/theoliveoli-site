@@ -33,3 +33,5 @@ And cDock is, well.... not great. It's not been updated for a while, and even on
 And finally, there's iTunes, which you can install fairly easily with Retroactive. Just pick the version you'd like from the menu (I picked 10.7, which has Cover Flow) and let Retroactive do it's thing.
 
 This is how my current setup looks!
+
+[A macOS Monterey install customized to look like Mac OS X Snow Leopard.](../assets/blog/frutigermac.png)
