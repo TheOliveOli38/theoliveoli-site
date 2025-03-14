@@ -86,8 +86,9 @@
                     <section class="tabs">
                         <menu role="tablist" aria-label="Tabs">
                             <button role="tab" aria-controls="tab-A" aria-selected="true">Dashboard</button>
+                            <a href="blog/">
                             <button role="tab" aria-controls="tab-B">Blog Thing</button>
-                            <button role="tab" aria-controls="tab-C">/til</button>
+                            </a>
                         </menu>
                         <article role="tabpanel" id="tab-A">
                             <div style="background-image: url(assets/sticky.png); height: 290px; width: 321px; box-shadow: 0px 3px 6px;">
@@ -99,80 +100,6 @@
                             </div>
                         </article>
                         <article role="tabpanel" id="tab-B" hidden="">
-                            <p style="font-size: 24px; margin-top: -5px; margin-bottom: -5px">
-                                <b>March 10th, 2025 - Mar10 Day!</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>
-                                    Today is Mario day!</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">I'm too lazy to boot up the Switch, so here's a picture of Mario from Mario Kart Tour instead.</p>
-                            <img src="assets/blog/mario.png" style="margin-bottom: 2px; height: 500px">
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>
-                                    Nekoweb Down 2, Electric Boogaloo</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Nekoweb was down again, at around 11AM my time. Same error codes, and it was resolved fairly quickly. And it happened again at 1:45PM.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>
-                                    Customizing macOS in ways Apple hates! (Tim Cook pls don't sue me)</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Apple isn't great. I hate my iPhone, and Apple probably hates me, too. Why? Because I hackintosh my laptop. So why not make Apple hate me even more by changing how macOS looks in ways Apple didn't intend to!</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">If there's one thing I'm not a fan of in modern macOS, it's the Big Sur UI. it's just kinda... too big? And while the customizations I've applied don't fix that, they do bring back that retro macOS look!</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">It's actually pretty simple on the surface: The setup I have here can be achieved on ANYTHING BUT SEQUOIA and I believe it's not possible on Apple Silicon Macs too, except if Apple lets you turn off System Integrity Protection there too. Because Apple's modern macOS is like an immutable Linux distro, just that it's wayyy harder to override the write lock on the system partition!</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Short technical explanation aside, here's what I used to achieve my current setup:</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">1. A custom macOS theme called AquaLickX</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">2. A menu bar customization app called Lickable Menu Bar (Free!)</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">3. A custom dock program called cDock (not free :( but at least there's a 7 day free trial)</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">4. An app called Retroactive to bring back iTunes on modern macOS.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">After I had installed AquaLickX and rebooted my PC, I was greeted by a mix of the older, and less flat window style and the new, whiter (or darker) color scheme with translucency, because yes, AquaLickX supports Dark Mode, which is very nice.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Then I had to download Lickable Menu Bar from the App Store, which I then launched and applied the Leopard menu bar style.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">After that, I applied the Mac OS X Leopard wallpaper, which I edited to include a white section to make the menu bar appear white. Note that it doesnt have to cover the whole menu bar pixel-perfect, as long as it covers most of it Lickable Menu Bar will make the menu bar completely white!</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">And cDock is, well.... not great. It's not been updated for a while, and even on older OS versions it doesn't behave great. And on top of that, you gotta pay 10 bucks for it, although there is a 7 day free trial luckily. Setting up cDock is fairly straightforward, just enable the Snow Leopard dock style, and if you want, change the Dock icons to icons from Leopard.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">And finally, there's iTunes, which you can install fairly easily with Retroactive. Just pick the version you'd like from the menu (I picked 10.7, which has Cover Flow) and let Retroactive do it's thing.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">This is how my current setup looks!</p>
-                            <img src="assets/blog/frutigermac.png" style="margin-bottom: 2px">
-                            <p style="font-size: 24px; margin-top: -5px; margin-bottom: -5px">
-                                <b>March 9th, 2025</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>
-                                    Cat themed site hoster (Nekoweb) went down</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Cloudflare sucks! Nekoweb went 500 (and SSL error) mode for like 15 mins a few hours ago. Very sad. Luckily I wasn't working on my website when that happened (I was busy playing Sonic Unleashed and watching the chaos unfold in the Discord server) and that's why I have both Blahaj Land and Nekoweb, too. If one goes down, use the other! If both go down, then.... uhhhhhhhhhhhhhhhhhhhhhhhhh</p>
-                            <img src="assets/blog/wilddiscord.png" style="margin-bottom: 2px">
-                            <p style="font-size: 24px; margin-top: -5px; margin-bottom: -5px">
-                                <b>March 8th, 2025</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>New site design!</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">The big Mario Kart Wii UI is gone, and in it's place is a new Windows 7 style, made with 7.css. The biggest improvement with this new design is better navigation, being implemented as text files you can click, as well as the inclusion of tabs to reduce subpages. Originally, I wanted to implement navigation on the old website design, but that would've felt kinda out-of-place. The other big improvement is how well it now scales to different screen resolutions and window sizes. While my previous website was only really optimized for 1366x768 and 1920x1080, you can now get a pretty fine experience on phones too with this new design. Obviously, it isn't perfect, but it makes the site somewhat usable on mobile now.</p>
-                            <p style="font-size: 24px; margin-top: 5px; margin-bottom: -5px">
-                                <b>March 4th, 2025</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>Site moved to Blåhaj Land!</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Blåhaj Land's really cool. As you might know, my site was previously was on Neocities. I randomly stumbled upon Blahåj Land when I tried to find a link to a Firefox User Style in a Discord server (this is actually true btw). So I decided to give it a try, and I really like it so far; The value you get in the free tier is insane, although this might change when more and more people flock to the site which is understandable. It's not easy to host stuff for many people while having many services at once and being free. A few of the many perks I really like: Faster speeds than Neocities, your own E-Mail and Nextcloud account with 1 gig of cloud storage and a bunch of tools.</p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">Update: My site is also hosted on Nekoweb now, just in case!</p>
-                        </article>
-                        <article role="tabpanel" id="tab-C" hidden="">
-                            <p style="font-size: 24px; margin-top: -5px; margin-bottom: 1px">
-                                <b>TIL - Today I learned!</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>Most of the time, I learn something new every day. Here's a little collection of them!</b>
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>March 12th 2025 - </b> TypeScript is developed by Microsoft.
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>March 11th 2025 - </b> You don't need 700+ Rings to get an S rank in Rooftop Run.
-                            </p>
-                            <p style="font-size: 16px; margin-top: 2px; margin-bottom: 2px">
-                                <b>March 10th 2025 - </b> Flex in HTML/CSS made my navbar centered!
-                            </p>
                         </article>
                     </section>
                     <script src="script.js"></script>
