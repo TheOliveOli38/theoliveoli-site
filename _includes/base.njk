@@ -19,7 +19,9 @@
 </header>
 <main>
 <aside>
-    <iframe src="til/index.html"></iframe>
+    {% include "status.html" %}
+    <hr>
+    {% renderFile "./_includes/til.md" %}
 </aside>
 {{ content | safe}}
 </main>

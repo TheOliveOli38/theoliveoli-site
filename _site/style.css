@@ -12,7 +12,6 @@ aside{
 }
 
 iframe{
-    height: 100%;
     border: 0px;
     font-display: fallback;
 }
@@ -29,9 +28,20 @@ iframe{
 
 a{
     text-decoration: none;
-    font-size: 20px;
     font-weight: bold;
     color: white;
+}
+
+#statuscafe-username {
+    font-size: 16px;
+}
+#statuscafe-content {
+    font-size: 16px;
+}
+
+aside{
+    max-width: 20%;
+    margin-left: 2rem;
 }
 
 @font-face {
