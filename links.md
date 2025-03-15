@@ -3,6 +3,8 @@ title: My Links
 layout: base.njk
 ---
 
+<link rel="stylesheet" href="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-style.css">
+
 # Links
 ## My Links
 [YouTube channel](https://youtube.com/@TheOliveOli38)
@@ -30,3 +32,15 @@ layout: base.njk
 
 [Neal.Fun!](https://neal.fun/)
 - Play some cool webgames!
+
+# Webrings
+## [Bolognese Webring](https://spag.site/webring/)
+[Previous site](https://spag.site/webring/redirect.html?to=prev&name=TheOliveOli)
+[Random site](https://spag.site/webring/redirect.html?to=random&name=TheOliveOli)
+[Next site](https://spag.site/webring/redirect.html?to=next&name=TheOliveOli)
+
+## Apartment Webring
+(Need to fix embed)
+
+## AeroRing
+(Need to fix embed)
