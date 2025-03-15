@@ -28,6 +28,5 @@ My music taste is kinda basic: I'm mostly into stuff you'd hear on the radio (so
 - Windmill Isle (Daytime), Sonic Unleashed
 - Big Blue, Mario Kart 8 (Deluxe)
 
-
 ## Contact:
 The best way is through Discord, my username is @theoliveoli. You can also write me an E-Mail at theoliveoli38@gmail.com.
