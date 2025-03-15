@@ -1,0 +1,28 @@
+body{
+background-color: black;
+color: white;
+margin-left: 10vw;
+margin-right: 10vw;
+font-family: SF Mono;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container > div {
+    margin-bottom: 2px;
+    margin-right: 5px;
+}
+
+@font-face {
+    font-family: SF Mono;
+    src: url(mono.otf);
+}
+
+@font-face {
+    font-family: SF Mono;
+    src: url(monob.otf);
+    font-weight: bold;
+}
