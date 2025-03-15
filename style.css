@@ -19,11 +19,12 @@ iframe{
 .flex-container {
     display: flex;
     justify-content: center;
+    justify-content: space-between
 }
 
-.flex-container > div {
-    margin-bottom: 2px;
-    margin-right: 5px;
+.flex-container > a {
+    margin-bottom: 0.5rem;
+    text-align: center;
 }
 
 a{
