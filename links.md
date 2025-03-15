@@ -1,9 +1,7 @@
 ---
 title: My Links
-layout: base.njk
+layout: links.njk
 ---
-
-<link rel="stylesheet" href="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-style.css">
 
 # Links
 ## My Links
@@ -39,8 +37,3 @@ layout: base.njk
 [Random site](https://spag.site/webring/redirect.html?to=random&name=TheOliveOli)
 [Next site](https://spag.site/webring/redirect.html?to=next&name=TheOliveOli)
 
-## Apartment Webring
-(Need to fix embed)
-
-## AeroRing
-(Need to fix embed)

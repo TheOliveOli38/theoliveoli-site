@@ -1,0 +1,36 @@
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-style.css">
+<head>
+<title>Oli's Internet Corner</title>
+</head>
+<body>
+<header>
+<h1 style="text-align: center">Oli's Internet Corner</h1>
+<h2 style="text-align: center">Welcome to my little personal site!</h2>
+<div class="flex-container">
+<a href="#">Home Page</a>
+<a href="#">About Me</a>
+<a href="blog/">Blog Thing</a>
+<a href="#">My Links</a>
+<a href="#">Neko Chat</a>
+</div>
+<hr>
+</header>
+<main>
+<aside>
+    {% include "status.html" %}
+    <hr>
+    {% renderFile "./_includes/til.md" %}
+</aside>
+{{ content | safe}}
+<div>
+<h2>Apartment Webring</h2>
+<div id='apartment-webring'>
+    <script type="text/javascript" src="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-variables.js"></script>
+    <script type="text/javascript" src="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-widget.js"></script>
+</div>
+<h2>AeroRing</h2>
+<script src="https://theoliveoli.blahaj.land/aeroring/pmoring.js"></script>
+</div>
+</main>
+</body>
