@@ -19,13 +19,14 @@ PC Hardware and operating systems are where I shine the most, even though I tend
 Some of the stuff I made include: A few scrapped Unity games, this website and a silly little tax calculation program I made for a school project.
 #### Music
 My music taste is kinda basic: I'm mostly into stuff you'd hear on the radio (so Pop and Dance genres) and video game OST.
--# **Favorite video game music tracks:**
--# - Crisis City (Act 2), Sonic Generations
--# - Rooftop Run (Act 2), Sonic Generations
--# - Windmill Isle (Daytime), Sonic Unleashed
--# - Big Blue, Mario Kart 8 (Deluxe)
--# - Starstone Forest, Aurascope
--# - Speed Highway (Act 1), Sonic Generations
+
+**Favorite video game music tracks:**
+- Crisis City (Act 2), Sonic Generations
+- Rooftop Run (Act 2), Sonic Generations
+- Windmill Isle (Daytime), Sonic Unleashed
+- Big Blue, Mario Kart 8 (Deluxe)
+- Starstone Forest, Aurascope
+- Speed Highway (Act 1), Sonic Generations
 
 ### Contact:
 The best way is through Discord, my username is @theoliveoli. You can also write me an E-Mail at theoliveoli38@gmail.com.
