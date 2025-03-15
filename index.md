@@ -15,3 +15,8 @@ layout: base.njk
 ### For archival purposes, you can still view the previous iterations of my site! Note that these are no longer updated.
 #### [View Internet Corner v1!](legacy/v1/)
 #### [View Internet Corner v2!](legacy/v2/)
+
+----
+
+## Chat with others!
+### [Visit NekoChat!](legacy/v2/chat.html)
