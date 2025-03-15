@@ -11,9 +11,8 @@
 </header>
 <main>
 <aside>
-    {% include "status.html" %}
-    <hr>
     {% renderFile "./_includes/til.md" %}
+    <hr>
 </aside>
 {{ content | safe}}
 </main>

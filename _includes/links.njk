@@ -14,7 +14,10 @@
 <aside>
     {% include "status.html" %}
     <hr>
-    {% renderFile "./_includes/til.md" %}
+    {% include "lastfm.html" %}
+    <hr>
+    {% renderFile "./_includes/to-do.md" %}
+    <hr>
 </aside>
 {{ content | safe}}
 <div>
