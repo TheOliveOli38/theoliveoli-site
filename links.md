@@ -28,7 +28,7 @@ layout: base.njk
 - A computer... in your computer? WHAAAAAAT???
 
 [Tofutush (The Iron Ragdoll)](https://tofutush.github.io/The-Iron-Ragdoll)
-- Stories set around characters in a (very) big universe. Don't forget to check out the art, too!
+- Stories set around various characters in a (very) big universe. Don't forget to check out the art, too!
 
 [Neal.Fun!](https://neal.fun/)
 - Play some cool webgames!
