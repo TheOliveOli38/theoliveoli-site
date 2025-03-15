@@ -1,6 +1,0 @@
-{% for post in collections.posts reversed %}
-<a href="../blog{{ post.url }}">{{ post.data.title }} - {{ post.data.datetime }}</a>
-<p></p>
-<p>{{ post.data.desc }}</p>
-<hr>
-{% endfor %}
