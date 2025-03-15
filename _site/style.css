@@ -3,7 +3,8 @@ background-color: black;
 color: white;
 margin-left: 10vw;
 margin-right: 10vw;
-font-family: SF Mono;
+font-family: SF Mono, monospace;
+font-display: fallback;
 }
 
 aside{
@@ -13,22 +14,33 @@ aside{
 iframe{
     height: 100%;
     border: 0px;
+    font-display: fallback;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container > div {
+    margin-bottom: 2px;
+    margin-right: 5px;
 }
 
 a{
     text-decoration: none;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     color: white;
 }
 
 @font-face {
     font-family: SF Mono;
-    src: url(mono.otf);
+    src: url(assets/mono.otf);
 }
 
 @font-face {
     font-family: SF Mono;
-    src: url(monob.otf);
+    src: url(assets/monob.otf);
     font-weight: bold;
 }

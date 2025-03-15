@@ -19,11 +19,11 @@ font-display: fallback;
 
 @font-face {
     font-family: SF Mono;
-    src: url(mono.otf);
+    src: url(assets/mono.otf);
 }
 
 @font-face {
     font-family: SF Mono;
-    src: url(monob.otf);
+    src: url(assets/monob.otf);
     font-weight: bold;
 }

@@ -3,7 +3,8 @@ background-color: black;
 color: white;
 margin-left: 10vw;
 margin-right: 10vw;
-font-family: SF Mono;
+font-family: SF Mono, monospace;
+font-display: fallback;
 }
 
 .flex-container {
@@ -18,11 +19,11 @@ font-family: SF Mono;
 
 @font-face {
     font-family: SF Mono;
-    src: url(mono.otf);
+    src: url(assets/mono.otf);
 }
 
 @font-face {
     font-family: SF Mono;
-    src: url(monob.otf);
+    src: url(assets/monob.otf);
     font-weight: bold;
 }

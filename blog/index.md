@@ -1,6 +1,6 @@
 ---
 title: Oli's Blog Thing
-layout: base.njk
+layout: blog.njk
 ---
 
 {% include "postlist.njk" %}
