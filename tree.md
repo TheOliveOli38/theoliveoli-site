@@ -4,7 +4,7 @@ layout: base.njk
 ---
 
 ## Site Hierarchy
-### **Current amount of sites:** 12
+### **Current amount of sites:** 13
 
 ### - [Home](/)
 ### - [About](/about/)
