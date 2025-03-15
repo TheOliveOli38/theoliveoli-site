@@ -34,4 +34,4 @@ And finally, there's iTunes, which you can install fairly easily with Retroactiv
 
 This is how my current setup looks!
 
-<img src="../../../assets/blog/frutigermac.png"></img>
+![image](../../../assets/blog/frutigermac.png)

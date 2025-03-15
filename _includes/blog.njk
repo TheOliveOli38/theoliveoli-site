@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../style.css">
 <head>
 <title>Oli's Blog Thing</title>
 </head>
@@ -6,11 +6,20 @@
 <header>
 <h1>Oli's Blog Thing</h1>
 <h2>A place where I dump my thoughts in little (or big) text blocks I call blog posts. Not sure if they qualify as blog posts though.</h2>
+<div class="flex-container">
+<a href="../">Home Page</a>
+<a href="#">About Me</a>
+<a href="#">Blog Thing</a>
+<a href="#">My Links</a>
+<a href="#">Neko Chat</a>
+</div>
 <hr>
 </header>
 <main>
 <aside>
-    <iframe src="til/index.html"></iframe>
+    {% include "status.html" %}
+    <hr>
+    {% renderFile "./_includes/til.md" %}
 </aside>
 {{ content | safe}}
 </main>
