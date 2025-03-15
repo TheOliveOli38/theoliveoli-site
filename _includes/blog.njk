@@ -4,13 +4,14 @@
 </head>
 <body>
 <header>
-<h1 style="text-align: center">Oli's Blog Thing</h1>
+<h1 style="text-align: center; margin-bottom: -10px">Oli's Blog Thing</h1>
 <h2 style="text-align: center">A place where I dump my thoughts in little (or big) text blocks I call blog posts. Not sure if they qualify as blog posts though.</h2>
 {% include "nav.njk" %}
 <hr>
 </header>
 <main>
 <aside>
+    <hr>
     {% renderFile "./_includes/til.md" %}
     <hr>
 </aside>
