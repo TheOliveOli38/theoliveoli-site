@@ -3,7 +3,7 @@ background-color: black;
 color: white;
 margin-left: 10vw;
 margin-right: 10vw;
-font-family: SF Mono;
+font-family: SF Mono, monospace;
 font-display: fallback;
 }
 
