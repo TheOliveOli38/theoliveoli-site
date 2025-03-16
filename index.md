@@ -9,7 +9,6 @@ layout: base.njk
 **Note:** This website is under construction, and will always be!
 
 ### Wanna see what's new? Check [the changelog!](/changelog/)
-### Want to look through every single page on the site? View [the site hierarchy!](/tree/)
 
 ----
 
