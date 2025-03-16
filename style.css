@@ -1,5 +1,5 @@
 body{
-background-color: black;
+background-color: #0d0d0d;
 color: white;
 margin-left: 10vw;
 margin-right: 10vw;
@@ -9,11 +9,6 @@ font-display: fallback;
 
 aside{
     float:right;
-}
-
-iframe{
-    border: 0px;
-    font-display: fallback;
 }
 
 .flex-container {
@@ -36,6 +31,17 @@ a{
 h1{
     text-shadow: 0px 0px 10px #0070c0, 0px 0px 20px #008bd4, 0px 0px 30px #00a2e5;
     font-size: 45px;
+}
+
+a:hover{
+    text-shadow: 0px 0px 2px #0070c0, 0px 0px 5px #008bd4, 0px 0px 10px #00a2e5;
+}
+
+#statuscafe-username {
+    font-size: 16px;
+}
+#statuscafe-content {
+    font-size: 16px;
 }
 
 @media only screen and (max-width: 800px) {
@@ -65,17 +71,6 @@ h1{
         margin-right: auto;
         width: 20vw;
     }
-}
-
-a:hover{
-    text-shadow: 0px 0px 2px #0070c0, 0px 0px 5px #008bd4, 0px 0px 10px #00a2e5;
-}
-
-#statuscafe-username {
-    font-size: 16px;
-}
-#statuscafe-content {
-    font-size: 16px;
 }
 
 @font-face {
