@@ -1,6 +1,7 @@
 ---
 title: Internet Corner v3 is here!
-datetime: March 16th, 2025
+datewritten: March 16th, 2025
+date: 2025-03-16
 desc: Another drastic design change is here!
 layout: posts.njk
 ---

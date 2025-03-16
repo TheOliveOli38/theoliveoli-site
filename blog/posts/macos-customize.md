@@ -1,6 +1,7 @@
 ---
 title: Customizing macOS in ways Apple hates! (Tim Cook pls don't sue me)
-datetime: March 10th, 2025
+datewritten: March 10th, 2025
+date: 2025-03-10
 desc: I made my macOS look like Snow Leopard. How though?
 layout: posts.njk
 ---

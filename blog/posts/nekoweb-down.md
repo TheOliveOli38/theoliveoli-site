@@ -1,6 +1,7 @@
 ---
 title: Cat-themed site hoster Nekoweb went down
-datetime: March 9th, 2025
+datewritten: March 9th, 2025
+date: 2025-03-09
 desc: Nekoweb's down, and the Discord goes wild.
 layout: posts.njk
 ---

@@ -1,6 +1,7 @@
 ---
 title: Site moved to Blahaj Land!
-datetime: March 4th, 2025
+datewritten: March 4th, 2025
+date: 2025-03-04
 desc: The site was moved to Blahaj Land. But why?
 layout: posts.njk
 ---

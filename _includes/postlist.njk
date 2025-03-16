@@ -1,5 +1,5 @@
-{% for post in collections.posts %}
-<a href="{{ post.url }}" style="font-size: 24px">{{ post.data.title }} - {{ post.data.datetime }}</a>
+{% for post in collections.posts reversed %}
+<a href="{{ post.url }}" style="font-size: 24px">{{ post.data.title }} - {{ post.data.datewritten }}</a>
 <p></p>
 <p>{{ post.data.desc }}</p>
 <hr>

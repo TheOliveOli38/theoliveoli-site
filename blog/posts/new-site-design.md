@@ -1,6 +1,7 @@
 ---
 title: New site design!
-datetime: March 8th, 2025
+datewritten: March 8th, 2025
+date: 2025-03-08
 desc: The site got a redesign, making it way better on mobile and getting a new Windows 7-style design.
 layout: posts.njk
 ---

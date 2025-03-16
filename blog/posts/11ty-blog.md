@@ -1,6 +1,7 @@
 ---
 title: Blog Thing, now on 11ty!
-datetime: March 14th, 2025
+datewritten: March 14th, 2025
+date: 2025-03-14
 desc: I moved the Blog Thing and TIL to 11ty. New interface and stuff.
 layout: posts.njk
 ---
