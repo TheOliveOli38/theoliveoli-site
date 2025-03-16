@@ -6,6 +6,11 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 3/16/2025
+#### - Internet Corner v3 is now live.
+#### - Added Git Gud Ring to webring list.
+#### - Added a glow effect when hovering over links to make them more visible.
+
 ### 3/15/2025
 #### - Started building new v3 site, using 11ty.
 #### &nbsp;&nbsp;&nbsp;&nbsp;- New design with a plain background, light blue accents, a monospace font and a sidebar.
