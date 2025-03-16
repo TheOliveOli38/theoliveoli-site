@@ -1,2 +1,2 @@
 ### Site To-Do's
-- Nothing! (for now)
+- Slight design changes
