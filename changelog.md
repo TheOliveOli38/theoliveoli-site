@@ -9,7 +9,16 @@ layout: base.njk
 ### 3/16/2025
 #### - Internet Corner v3 is now live.
 #### - Added Git Gud Ring to webring list.
+#### - Fixed blog post listing being fucked up
 #### - Added a glow effect when hovering over links to make them more visible.
+#### - Changed background color to be slightly lighter
+#### - Fixed favicon not showing up in Blog Thing.
+#### - Decoupled site title glow effect from all h1's so they don't glow anymore
+#### - Made seperators more subtle
+#### - Slight sidebar modifications to make it look better on both desktop and mobile
+#### - Changed blog post titles to use h1's instead of h2's
+
+#### - New blog post added: [Internet Corner v3](/blog/posts/internet-corner-v3/)
 
 ### 3/15/2025
 #### - Started building new v3 site, using 11ty.
@@ -17,7 +26,7 @@ layout: base.njk
 #### &nbsp;&nbsp;&nbsp;&nbsp;- New Last.fm widget
 #### &nbsp;&nbsp;&nbsp;&nbsp;- Updated writing
 #### &nbsp;&nbsp;&nbsp;&nbsp;- Added Tofutush to cool sites
-#### &nbsp;&nbsp;&nbsp;&nbsp;- Created site hierarchy and changelog.
+#### &nbsp;&nbsp;&nbsp;&nbsp;- Created changelog.
 #### - Moved legacy sites to branches `site-v1` and `site-v2` on GitHub.
 
 ### 3/14/2025
