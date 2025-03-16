@@ -15,13 +15,13 @@ export default {
   widget: `
       <div class="AeroRing">
         <a href="https://{prev.host}">
-		<button>&lt</button>
+		&lt
 		</a>
     <a href="https://{random.host}">
-		<button>AeroRing!</button>
+		AeroRing!
 		</a>
         <a href="https://{next.host}">
-		<button>&gt</button>
+		&gt
 		</a>
       </div>
     `,

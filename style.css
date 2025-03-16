@@ -40,7 +40,7 @@ h1{
 
 @media only screen and (max-width: 800px) {
     aside{
-        width: 100%;
+        width: 100vw;
         margin-top: -2rem;
         margin-bottom: 2rem;
     }
@@ -48,10 +48,25 @@ h1{
 
 @media only screen and (min-width: 800px) {
     aside{
-        max-width: 20%;
+        max-width: 20vw;
         margin-left: 2rem;
     }
 }
+
+@media only screen and (max-width: 800px) {
+    #aeroring{
+        width: 90vw;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    #aeroring{
+        margin-left: 0px;
+        margin-right: auto;
+        width: 20vw;
+    }
+}
+
 
 #statuscafe-username {
     font-size: 16px;
