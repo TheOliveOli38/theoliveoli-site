@@ -61,14 +61,12 @@ a:hover{
     }
 }
 
-@media only screen and (min-width: 800px) {
-    aside{
-        max-width: 20vw;
-        margin-left: 2rem;
-        padding-left: 2rem;
-        border-left: 2px solid #2e2e2e;
-        margin-bottom: 3rem;
-    }
+aside{
+    max-width: 20vw;
+    margin-left: 2rem;
+    padding-left: 2rem;
+    border-left: 2px solid #2e2e2e;
+    margin-bottom: 3rem;
 }
 
 /* Screen size dependent changes for AeroRing widget */
