@@ -8,7 +8,7 @@ layout: base.njk
 
 **Note:** This website is under construction, and will always be!
 
-### Wanna see what's new? Check [the changelog!](/changelog/)
+### Wanna see what's new? Check [the changelog!](changelog/)
 
 ----
 
@@ -21,4 +21,4 @@ layout: base.njk
 ----
 
 ## Chat with others!
-### [Visit NekoChat!](legacy/v2/chat.html)
+### [Visit NekoChat!](nekochat/)

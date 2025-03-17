@@ -88,6 +88,40 @@ aside{
     }
 }
 
+#nekochat-form{
+    margin-left: 10vw;
+    width: 80vw;
+}
+
+#nekochat-messages{
+    height: 55vh;
+    overflow-y: scroll;
+    font-family: SF Mono, monospace;
+}
+
+@media only screen and (orientation: portrait) {
+    #nekochat-messages{
+        height: 30vh;
+        font-size: 13px;
+        overflow-y: scroll;
+        font-family: SF Mono, monospace;
+    }
+}
+
+#username{
+    font-family: SF Mono, monospace;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+#message{
+    font-family: SF Mono, monospace;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
 /* Add SF Mono font to site */
 @font-face {
     font-family: SF Mono;

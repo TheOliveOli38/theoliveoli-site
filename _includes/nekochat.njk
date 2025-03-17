@@ -15,21 +15,20 @@
 </header>
 <main>
 {{ content | safe}}
+<a href="https://nekochat.mldchan.dev/">
+    Add NekoChat to your own site!
+</a>
+<p>
+Report abuse to <a href="mailto:mldkyt@proton.me">mldkyt@proton.me</a>
+</p>
 <div class="nekochat-container">
     <div class="nekochat-chat-box">
         <div class="nekochat-message-list" id="nekochat-messages"></div>
-
-        <form class="nekochat-message-form" method="POST" action="https://nekochat.mldchan.dev/chat">
+        <form class="nekochat-message-form" method="POST" action="https://nekochat.mldchan.dev/chat" id="nekochat-form">
             <input type="text" id="username" name="username" placeholder="Enter your username" required>
             <textarea id="message" name="content" placeholder="Type your message here..." required></textarea>
             <button type="submit">Send Message</button>
-            <span>Report abuse to <a href="mailto:mldkyt@proton.me">mldkyt@proton.me</a>.</span>
         </form>
-
-        <!-- This allows more people to get to this project, please keep this! -->
-        <a href="https://nekochat.mldchan.dev/" class="nekochat-add-me">
-            <button>+</button>
-        </a>
     </div>
 </div>
 <div>
