@@ -14,7 +14,9 @@ aside{
 
 /* Change seperator element color for more subtle-ness */
 hr{
-    color: #2e2e2e
+    color: #2e2e2e;
+    border-color: #2e2e2e;
+    border-style: solid;
 }
 
 /* Used for navbar styling */
@@ -50,23 +52,25 @@ a:hover{
 }
 
 /* Sidebar styling changes dependent on screen size */
-@media only screen and (max-width: 800px) {
-    aside{
-        max-width: 100vw;
-        margin-top: -2rem;
-        padding-top: 5px;
-        margin-bottom: 1rem;
-        padding-left:0px;
-        border-bottom:2px solid #2e2e2e;
-    }
-}
-
 aside{
     max-width: 20vw;
     margin-left: 2rem;
     padding-left: 2rem;
     border-left: 2px solid #2e2e2e;
     margin-bottom: 3rem;
+}
+
+@media only screen and (orientation: portrait) {
+    aside{
+        max-width: 100vw;
+        margin-top: -2rem;
+        padding-top: 5px;
+        margin-bottom: 1rem;
+        padding-left: 0px;
+        margin-left: 0px;
+        border-bottom: 2px solid #2e2e2e;
+        border-left: 0px;
+    }
 }
 
 /* Screen size dependent changes for AeroRing widget */
