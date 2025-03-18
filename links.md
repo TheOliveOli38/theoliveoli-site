@@ -32,8 +32,8 @@ layout: links.njk
 - Play some cool webgames!
 
 # Webrings
-## [Bolognese Webring](https://spag.site/webring/)
-[Previous site](https://spag.site/webring/redirect.html?to=prev&name=TheOliveOli)
-[Random site](https://spag.site/webring/redirect.html?to=random&name=TheOliveOli)
-[Next site](https://spag.site/webring/redirect.html?to=next&name=TheOliveOli)
+## [Bolognese Webring](https://daisy.nekoweb.org/webring)
+[Previous site](https://spagwhetti.github.io/redirect.html?to=prev&name=TheOliveOli)
+[Random site](https://spagwhetti.github.io/redirect.html?to=random&name=TheOliveOli)
+[Next site](https://spagwhetti.github.io/redirect.html?to=next&name=TheOliveOli)
 
