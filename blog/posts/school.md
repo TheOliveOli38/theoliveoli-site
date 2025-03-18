@@ -19,8 +19,11 @@ It's one of the two 25-minute breaks we get in between classes, and I'm with eit
 Then, I see a few *very* familiar faces come into the room we're in, and my day is instantly ruined.
 
 At this point, one of three things might happen, or maybe a combination of them:
+
 First scenario: They talk shit about me.
+
 Second scenario: They annoy and disturb us, by various means. (One of which includes tapping random keys, Alt-F4 or the off button on my laptop, in case I am actually working during one of those breaks)
+
 Third scenario: They act friendly and ask me various things.
 
 Now at first glance, the third scenario might not seem bad. But as it turns out, it's actually the worst. Here's the thing, they only **act** friendly. The stuff they ask is usually either fucking stupid (brainrot) or stuff I don't want to answer. Sometimes they end up blocking the way, (especially troublesome when it's the end of the break and I need to get to a classroom at the other end of the school building) sometimes they ask for or about stuff I have. And when I leave, I know for a fact that they then either talk shit about me or just laugh.
@@ -32,7 +35,7 @@ Why? I have no fucking idea. I didn't do anything. I didn't even know them or ev
 But I do have a few theories in mind:
 
 **My height.**
-I am incredibly short for my age (about 150cms, or 4ft11) which to be fair I personally don't mind, but they find it funny apparently. That they are more than a head taller than a guy 4 grades above them. And obviously, they like to either make fun of me for that, or mention it every fucking second as if, after 16 years, I had never noticed before. Even though I have to look up at them and pretty much everyone else around me who isn't a 6th grader. Can't do anything about that, obviously. Doesn't look like their dumb ass brains understand, though.
+I am incredibly short for my age (about 150cms, or 4ft11) which to be fair, I personally don't mind, but they find it funny apparently. That they are more than a head taller than a guy 4 grades above them. And obviously, they like to either make fun of me for that, or mention it every fucking second as if, after 16 years, I had never noticed before. Even though I have to look up at them and pretty much everyone else around me who isn't a 6th grader. Can't do anything about that, obviously. Doesn't look like their dumb ass brains understand, though.
 
 **My interests.**
 If this is actually why they are like this, then I'd be even more mad than if it were because of my height. Like come on, who does that kinda shit to someone just because they play Mario Kart? Gen alphas, apparently. Gen alphas addicted to Brawl Stars, to be more precise.
@@ -44,6 +47,6 @@ Well, what do I do about it? Nothing. I try to ignore them (which is kinda diffi
 
 But on bad days, I sometimes just... snap. I get insanely mad, and the situation gets even worse as they make even more fun about me. That was almost the case today. I was alone, which makes it even worse. But I somehow managed to stay calm, and decided to write this with the little rage that would still be left 6 hours later.
 
-Honestly, these guys annoy me so much, I sometimes have the intrusive thought of killing them. Pretty extreme, I know, but honestly, they've been doing this for at least the past 2 years now. Every single time they pull the same fucking shit, and I'm getting more and more sick of it every day they do it again. I'm just hoping I can surive it for the next year, after which I will finally be freed. And that fact honestly makes me even happier than the fact that I will have literally finished school. I guess this kinda shows how much I hate them.
+Honestly, these guys annoy me so much, I sometimes have the intrusive thought of killing them. Pretty extreme, I know, but honestly, they've been doing this for at least the past 2 years now. Every single time they pull the same fucking shit, and I'm getting more and more sick of it every day they do it again. I'm just hoping I can survive it for the next year, after which I will finally be freed. And that fact honestly makes me even happier than the fact that I will have literally finished school. I guess this kinda shows how much I hate them.
 
 I think I'm done with my little rant now. There isn't really anything else to say.
