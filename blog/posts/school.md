@@ -32,7 +32,7 @@ Why? I have no fucking idea. I didn't do anything. I didn't even know them or ev
 But I do have a few theories in mind:
 
 **My height.**
-I am incredibly short, (about 150cms, or 4ft11) which to be fair I don't mind, but they find it funny apparently. That they are more than a head taller than a guy 4 grades above them. And obviously, they like to either make fun of me for that, or mention it every fucking second as if, after 16 years, I had never noticed before. Even though I have to look up at them and pretty much everyone else around me who isn't a 6th grader. Can't do anything about that, obviously. Doesn't look like their dumb ass brains understand, though.
+I am incredibly short for my age (about 150cms, or 4ft11) which to be fair I personally don't mind, but they find it funny apparently. That they are more than a head taller than a guy 4 grades above them. And obviously, they like to either make fun of me for that, or mention it every fucking second as if, after 16 years, I had never noticed before. Even though I have to look up at them and pretty much everyone else around me who isn't a 6th grader. Can't do anything about that, obviously. Doesn't look like their dumb ass brains understand, though.
 
 **My interests.**
 If this is actually why they are like this, then I'd be even more mad than if it were because of my height. Like come on, who does that kinda shit to someone just because they play Mario Kart? Gen alphas, apparently. Gen alphas addicted to Brawl Stars, to be more precise.
