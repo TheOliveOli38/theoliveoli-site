@@ -6,6 +6,10 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 3/18/2025
+#### - Changed the links for the Bolognese Webring.
+#### - Added new blog post: [School.](/blog/posts/school/)
+
 ### 3/17/2025
 #### - Device scaling fixes, website should load correctly on mobile devices now.
 #### - NekoChat page in the new design added. No need to redirect to the Site v2 variant anymore!
