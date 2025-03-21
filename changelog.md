@@ -6,6 +6,9 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 3/21/2025
+#### - Added new blog post: [Hardware!](/blog/posts/hardware)
+
 ### 3/18/2025
 #### - Changed the links for the Bolognese Webring.
 #### - Added new blog post: [School.](/blog/posts/school/)
