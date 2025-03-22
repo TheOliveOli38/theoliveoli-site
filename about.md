@@ -20,6 +20,13 @@ Some of the stuff I made include: A few scrapped Unity games, this website and a
 ### Music
 My music taste is kinda basic: I'm mostly into stuff you'd hear on the radio (so Pop and Dance genres) and video game OST.
 
+**Favorite songs:**
+- Beat Of Your Heart - Purple Disco Machine
+- Walk With Me - Felix Jaehn
+- LoveDrug - Lady Gaga
+- All My Life - Purple Disco Machine
+- Something On My Mind - Purple Disco Machine
+
 **Favorite video game music tracks:**
 - Rooftop Run (Act 1), Sonic Generations
 - Rooftop Run (Daytime), Sonic Unleashed

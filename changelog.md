@@ -6,6 +6,9 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 3/22/2025
+#### - Added favorite song section in about page
+
 ### 3/21/2025
 #### - Added new blog post: [Hardware!](/blog/posts/hardware)
 
