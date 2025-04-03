@@ -8,6 +8,7 @@ layout: base.njk
 
 ### 4/3/2025
 #### - Added new blog post: [Switch 2](/blog/posts/switch2)
+#### - Small formatting changes on a few blog posts
 
 ### 3/23/2025
 #### - Added new blog post: [Old iOS](/blog/posts/old-ios/)
