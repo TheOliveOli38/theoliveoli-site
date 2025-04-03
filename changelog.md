@@ -6,6 +6,12 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 4/3/2025
+#### - Added new blog post: [Switch 2](/blog/posts/switch2)
+
+### 3/23/2025
+#### - Added new blog post: [Old iOS](/blog/posts/old-ios/)
+
 ### 3/22/2025
 #### - Added favorite song section in about page
 
