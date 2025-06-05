@@ -6,6 +6,16 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 6/5/2025
+#### - Added new blog post: [The hackintosh experience](/blog/posts/hackintosh)
+#### - Finally fixed an issue where images that are too big would flow over the container!
+#### - Modified blog main sidebar to be consistent with the rest of the site (TIL was thus removed)
+#### - Removed Aeroring
+#### - Added Nekochat to navbar
+
+### 4/21/2025
+#### - Removed a blog post
+
 ### 4/3/2025
 #### - Added new blog post: [Switch 2](/blog/posts/switch2)
 #### - Small formatting changes on a few blog posts
@@ -21,7 +31,7 @@ layout: base.njk
 
 ### 3/18/2025
 #### - Changed the links for the Bolognese Webring.
-#### - Added new blog post: [School.](/blog/posts/school/)
+#### - Added new blog post: [Now removed...](#)
 
 ### 3/17/2025
 #### - Device scaling fixes, website should load correctly on mobile devices now.

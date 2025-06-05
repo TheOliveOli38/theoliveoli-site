@@ -13,7 +13,9 @@
 </header>
 <main>
 <aside>
-    {% renderFile "./_includes/til.md" %}
+    {% include "status.html" %}
+    {% include "lastfm.html" %}
+    {% renderFile "./_includes/to-do.md" %}
 </aside>
 {{ content | safe}}
 </main>

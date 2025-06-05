@@ -7,6 +7,12 @@ font-family: SF Mono, monospace;
 font-display: fallback;
 }
 
+/* Make images not flow over the designated content width */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* Tell sidebar to stay put on the right */
 aside{
     float:right;
