@@ -7,7 +7,7 @@ layout: base.njk
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
 ### 6/5/2025
-#### - Added new blog post: [The hackintosh experience](/blog/posts/hackintosh)
+#### - Added new blog post: [My Hackintosh experience](/blog/posts/hackintosh)
 #### - Finally fixed an issue where images that are too big would flow over the container!
 #### - Modified blog main sidebar to be consistent with the rest of the site (TIL was thus removed)
 #### - Removed Aeroring
