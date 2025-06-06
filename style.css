@@ -79,21 +79,6 @@ aside{
     }
 }
 
-/* Screen size dependent changes for AeroRing widget */
-@media only screen and (max-width: 800px) {
-    #aeroring{
-        width: 90vw;
-    }
-}
-
-@media only screen and (min-width: 800px) {
-    #aeroring{
-        margin-left: 0px;
-        margin-right: auto;
-        width: 20vw;
-    }
-}
-
 #nekochat-form{
     margin-left: 10vw;
     width: 80vw;

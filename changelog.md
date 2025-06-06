@@ -7,7 +7,7 @@ layout: base.njk
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
 ### 6/6/2025
-#### - Minor nav/top bar tweaks
+#### - Minor nav/top bar, wording and CSS tweaks
 
 ### 6/5/2025
 #### - Added new blog post: [My Hackintosh experience](/blog/posts/hackintosh)
