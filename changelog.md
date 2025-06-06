@@ -6,6 +6,9 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 6/6/2025
+#### - Minor nav/top bar tweaks
+
 ### 6/5/2025
 #### - Added new blog post: [My Hackintosh experience](/blog/posts/hackintosh)
 #### - Finally fixed an issue where images that are too big would flow over the container!
