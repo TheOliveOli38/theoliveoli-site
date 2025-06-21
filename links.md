@@ -14,6 +14,9 @@ layout: links.njk
 - Check out my projects and this site's source code!
 
 ## Cool sites!
+[Nekoweb](https://nekoweb.org/)
+- Static site hosting, for humans and cats alike!
+
 [Library of Gurkistan's website](https://libraryofgurkistan.nekoweb.org/)
 - Visit my good (internet) friend's webpage!
 

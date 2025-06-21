@@ -8,6 +8,7 @@ layout: base.njk
 
 ### 6/21/2025
 #### - Added [SSGRing](https://jbcarreon123.nekoweb.org/webrings/ssgring/) to the webring list!
+#### - Added [Nekoweb](https://nekoweb.org) to sites list!
 
 ### 6/6/2025
 #### - Gave the container a bit more width when in portrait mode!
