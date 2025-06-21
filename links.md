@@ -6,8 +6,12 @@ layout: links.njk
 # Links
 ## My Links
 [YouTube channel](https://youtube.com/@TheOliveOli38)
+- Check out my videos on Mario Kart and Mario platformers!
 
 [Discord server](https://discord.gg/bT9yyBRpFm)
+
+[GitHub page](https://github.com/TheOliveOli38)
+- Check out my projects and this site's source code!
 
 ## Cool sites!
 [Library of Gurkistan's website](https://libraryofgurkistan.nekoweb.org/)
@@ -37,3 +41,7 @@ layout: links.njk
 [Random site](https://spagwhetti.github.io/redirect.html?to=random&name=TheOliveOli)
 [Next site](https://spagwhetti.github.io/redirect.html?to=next&name=TheOliveOli)
 
+## [SSGRing](https://jbcarreon123.nekoweb.org/webrings/ssgring/)
+[Previous site](https://jbcarreon123.nekoweb.org/webrings/ssgring/redirect?slug=theoliveoli&way=prev)
+[Random site](https://jbcarreon123.nekoweb.org/webrings/ssgring/redirect?way=rand)
+[Next site](https://jbcarreon123.nekoweb.org/webrings/ssgring/redirect?slug=theoliveoli&way=next)

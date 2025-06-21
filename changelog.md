@@ -6,6 +6,9 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 6/21/2025
+#### - Added [SSGRing](https://jbcarreon123.nekoweb.org/webrings/ssgring/) to the webring list!
+
 ### 6/6/2025
 #### - Gave the container a bit more width when in portrait mode!
 #### - Removed Homepage link in navbar, moved to the top bar title
