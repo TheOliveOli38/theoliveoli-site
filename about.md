@@ -6,7 +6,7 @@ layout: base.njk
 # About Me!
 ## Who am I, anyway?
 Hey, I'm TheOliveOli, or just Oli. I'm a random lad making silly Mario Kart videos on the Internet.
-I'm not just interested in Mario related things, but also in technology. Besides making videos, I also try and do a little programming in my free time. I work on this website, and I try and do games in Unity.
+I'm not just interested in Mario related things, but also in technology. Besides making videos, I also try and do a little programming in my free time. And I work on this website, obviously.
 
 ## My interests!
 ### Video games
@@ -15,7 +15,8 @@ My favorite Mario Platformer meanwhile has to be the Mario Galaxy series, and I 
 But I'm also into Sonic games! I'm more of a modern Sonic kinda guy though. My favorite games are Sonic Generations, Sonic Adventure and Sonic Mania!
 Other games I play are Aurascope, Forza Horizon 4, Portal 2, Mario Kart Tour and more.
 ### Computer hardware & programming
-PC Hardware and operating systems are where I shine the most, even though I tend to hop between operating systems faily often, for various reasons. In terms of programming, I'm honestly not that great, although I'm trying to get better and better every time I work on something.
+PC Hardware and operating systems are very much my kind of thing. I mean, why else would I be constantly OS hopping! (okay maybe that's not really a good thing)
+In terms of programming, I'm honestly not that great, although I'm trying to get better and better every time I work on something.
 Some of the stuff I made include: A few scrapped Unity games, this website and a silly little tax calculation program I made for a school project.
 ### Music
 My music taste is kinda basic: I'm mostly into stuff you'd hear on the radio (so Pop and Dance genres) and video game OST.

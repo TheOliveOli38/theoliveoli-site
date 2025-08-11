@@ -14,4 +14,4 @@ As already mentioned, Horizon Chase plays like most 2D racing games released on 
 
 ![](/assets/blog/HC/hc1.png)
 
-## What about the content available?
+## How much content is there?

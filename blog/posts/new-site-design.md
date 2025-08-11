@@ -1,13 +1,13 @@
 ---
-title: New site design!
+title: New site design! (v2)
 datewritten: March 8th, 2025
 date: 2025-03-08
-desc: The site got a redesign, making it way better on mobile and getting a new Windows 7-style design.
+desc: The site got a redesign, making it better on mobile and getting a new Windows 7/Aero style.
 layout: posts.njk
 ---
 
 # New site design!
-The big Mario Kart Wii UI is gone, and in it's place is a new Windows 7 style, made with 7.css.
+The Mario Kart Wii UI is gone, and in it's place is a new Windows 7 style, made with 7.css.
 
 The biggest improvement with this new design is better navigation, being implemented as text files you can click, as well as the inclusion of tabs to reduce subpages Originally, I wanted to implement navigation on the old website design, but that would've felt kinda out-of-place.
 

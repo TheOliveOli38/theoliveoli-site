@@ -60,6 +60,6 @@ One great thing is that Nintendo leaked pretty much half the track roster for us
 A few interesting things here are the fact that Crown City is represented twice here, however with different course screenshots. And for some reason, the Special Cup wasn't there! We only saw (in this order) the Mushroom, Flower, Star, Shell, Banana, Leaf and Lightning Cups.
 
 So this game is looking to be incredibly good, not only in terms of mechanics, but also with the game modes, graphics and track selection! There is one problem, however...
-The game is **80 bucks USD, or 90€!!!** This is honestly insane pricing. I'm fine with games being 70€, but not almost 100! Now obviously, GTA 6 will apparently cost the same, but still. I am afraid that this will be the standard for all NS2 games, which would NOT be good.
+The game's physical version is **80 bucks USD, or 90€!!!** This is honestly insane pricing. I'm fine with games being 70€, but not almost 100! Now obviously, GTA 6 will apparently cost the same, but still. I am afraid that this will be the standard for all NS2 games, which would NOT be good.
 
 So to sum it up, the Switch 2 is absolutely great, so is Mario Kart World, but only if you ignore the pricing.

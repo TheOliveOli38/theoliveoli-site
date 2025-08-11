@@ -6,6 +6,11 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 8/11/2025
+#### - Updated the [Hardware](/blog/posts/hardware.md) post!
+#### - Minor wording changes all around.
+#### - Removed 2 blog posts.
+
 ### 6/21/2025
 #### - Added [SSGRing](https://jbcarreon123.nekoweb.org/webrings/ssgring/) to the webring list!
 #### - Added [Nekoweb](https://nekoweb.org) to sites list!

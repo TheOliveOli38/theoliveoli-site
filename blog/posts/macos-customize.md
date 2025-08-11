@@ -1,12 +1,12 @@
 ---
-title: Customizing macOS in ways Apple hates! (Tim Cook pls don't sue me)
+title: Customizing macOS!
 datewritten: March 10th, 2025
 date: 2025-03-10
 desc: I made my macOS look like Snow Leopard. How though?
 layout: posts.njk
 ---
 
-# Customizing macOS in ways Apple hates! (Tim Cook pls don't sue me)
+# Customizing macOS! (Tim Cook pls don't sue me)
 Apple isn't great. I hate my iPhone, and Apple probably hates me, too. Why? Because I hackintosh my laptop. So why not make Apple hate me even more by changing how macOS looks in ways Apple didn't intend to!
 
 If there's one thing I'm not a fan of in modern macOS, it's the Big Sur UI. it's just kinda... too big? And while the customizations I've applied don't fix that, they do bring back that retro macOS look!

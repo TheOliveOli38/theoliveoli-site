@@ -1,39 +1,30 @@
 ---
-title: Hardware!
-datewritten: March 21st, 2025
-date: 2025-03-21
-desc: I'm bored, so here's the computer hardware I get to use daily, with little descriptions from yours truly.
+title: My Hardware
+datewritten: August 11th, 2025
+date: 2025-08-11
+desc: I'm bored, so here's the hardware I get to use daily, with little descriptions from yours truly.
 layout: posts.njk
 ---
 
-# Hardware!
-I've got a few pieces of hardware at my disposal. Not many are good, most are pretty freaking bad.
+# My Hardware
+I've got a few pieces of hardware at my disposal. While most of them are quite old, they're still pretty fine!
 
 ## My most capable machine - Desktop PC
-Calling this capable is kind of an overexaggeration, to be honest. It's got an old ass 240W power supply and case I salvaged from a late 2000s office PC, as well as an almost 11 year old 4th Gen Intel Core i5 and an 11 year old GeForce GTX 750 Ti.
+Calling this capable is kind of an overexaggeration, to be honest. It's got a pretty old 240W power supply and case I salvaged from a late 2000s office PC, as well as an 11 year old 4th Gen Intel Core i5 and a GeForce GTX 750 Ti that's just as old.
 
-Despite the obviously dated hardware, its still quite usable for the stuff I do. Except for DaVinci Resolve. That shit lags really badly on it.
+Despite the obviously dated hardware, its still quite usable for the stuff I do. Except for DaVinci Resolve. Lag is very much guaranteed there.
 
 ## My daily driver laptop - Dell Latitude 5480
-Got it a few months ago from writing this, and it's a pretty okay machine, even though it's also slowly reaching the 10 year mark. (wow, 2017 was 8 years ago already??? What the heck!?)
+It's a pretty okay machine, even though it's also slowly reaching the 10 year mark. (wow, 2017 was 8 years ago already??? What the heck!?)
 
-I could not and still cannot stand Windows on laptops, so it's running macOS. I had given Windows another chance 2 weeks ago as I was making my TaxCalc program (which needs Visual Studio, which is only for Windows) and it had left me even more disappointed. I got daily bluescreens on a fresh install.
+Despite not liking Windows at all and having tried a Hackintosh setup a few times, it's currently running Windows 10. Unfortunately, Linux is currently a no-go due to me having to use MS Office.
 
-Fuck Microsoft, honestly! Dump Copilot and fix your freaking OS instead!
+## The phone - Samsung Galaxy S10
+Got it recently after having ditched a 2016 iPhone SE. It's an overseas model (from the US, so it has a Snapdragon 855 chip) I got used, in very good condition with just minor scratches on the screen.
 
-## The shitty phone - iPhone SE 2016
-Forced to use this. Barely holds a charge. Gets hot. Runs a buggy and outdated version of iOS.
-
-Has a cracked screen. Dropped it down the stairs, screen popped out. What a joke, my previous 2014 low end Samsung got dropped down the stairs too, and it just got a tiny scratch.
-
-And the back camera got dirty on the inside somehow.
-
-## The even shitter phone - Huawei Y7 2018
-Technically not my phone, got it given to me by my friend as he has no use for it anymore. I will have to give it back to him at some point.
-
-Has an even slower CPU than the SE 2016, yet I enjoy using this more than the iPhone, even though it's giant for my hands. I guess I like Android that much, huh?
+If it weren't for the now slowly obsolete Android 12 with One UI 4.1, I'd honestly consider continuing to use it for more than 3 years from now, as the hardware is still quite good, and can handle everything I throw at it.
 
 ## The headphones
-I wouldn't have put this here like a week ago, but I've been using it daily now. Those are Sony headphones I got on a discount for 30 bucks. Insane battery life for an incredibly short charge time.
+I use them pretty much every day. Those are Sony headphones I got on a discount for 30 bucks. Insane battery life for an incredibly short charge time, and the audio quality is good for my standards.
 
-So uhhhh yeah, this is the stuff I get to use on a daily basis. Not great, but I've gotten used to it.
+So uhhhh yeah, this is the stuff I get to use on a daily basis. Despite their age, they still do everything I would want to do.
