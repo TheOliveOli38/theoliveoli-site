@@ -6,6 +6,10 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 8/25/2025
+#### - More minor wording updates
+#### - Webrings should slowly start working again
+
 ### 8/11/2025
 #### - Updated the [Hardware](/blog/posts/hardware.md) post!
 #### - Minor wording changes all around.

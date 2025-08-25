@@ -38,7 +38,7 @@ layout: links.njk
 [Neal.Fun!](https://neal.fun/)
 - Play some cool webgames!
 
-# Webrings (some are currently non-functioning, blame 11ty...)
+# Webrings
 ## [Bolognese Webring](https://daisy.nekoweb.org/webring)
 [Previous site](https://spagwhetti.github.io/redirect.html?to=prev&name=TheOliveOli)
 [Random site](https://spagwhetti.github.io/redirect.html?to=random&name=TheOliveOli)

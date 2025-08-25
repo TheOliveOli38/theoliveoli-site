@@ -12,6 +12,6 @@ First up, some background info. Horizon Chase was originally released for both A
 ## So, how's the gameplay?
 As already mentioned, Horizon Chase plays like most 2D racing games released on consoles like the NES, SNES, Sega Genesis and more. And while you'd think that'd make it a lot more boring that other racing games, I'd actually argue against that. While it obviously isn't as realistic or detailed as Gran Turismo and Forza, it's still quite a lot of fun, especially with mechanics like Nitro, fuel and collectable tokens.
 
-![](/assets/blog/HC/hc1.png)
+![image](/assets/blog/HC/hc1.png)
 
 ## How much content is there?

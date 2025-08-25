@@ -2,7 +2,7 @@
 title: My Hardware
 datewritten: August 11th, 2025
 date: 2025-08-11
-desc: I'm bored, so here's the hardware I get to use daily, with little descriptions from yours truly.
+desc: Here's the hardware I get to use daily, with little descriptions from yours truly.
 layout: posts.njk
 ---
 
