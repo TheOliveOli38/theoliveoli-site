@@ -10,6 +10,7 @@ layout: base.njk
 #### - Updated the [Hardware](/blog/posts/hardware) post again.
 #### - Update the name of post [Customizing macOS!](/blog/posts/macos-customize).
 #### - Some file cleanup
+#### - Changes in legacy sites
 #### - Removed Nekochat (obsolete)
 #### - Readded Home Page navbar link
 
