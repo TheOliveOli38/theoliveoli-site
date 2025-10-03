@@ -29,12 +29,35 @@ hr{
 .flex-container {
     display: flex;
     justify-content: center;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
 .flex-container > a {
     margin-bottom: 0.5rem;
     text-align: center;
+}
+
+/* Show navbar on the bottom for mobile devices */
+@media only screen and (orientation: portrait) {
+    .flex-container {
+        position: fixed;
+        left: 0px;
+        margin-left: 0vw;
+        margin-right: 0vw;
+        bottom: 0px;
+        margin: bottom 0px;
+        width: 100vw;
+        background-color: #0d0d0d;
+    }
+    .flex-container > a {
+        width: 15%;
+        margin-top: 0.5rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+    body {
+        padding-bottom: 3rem;
+    }
 }
 
 /* Change links to be white */
@@ -81,40 +104,6 @@ aside{
         border-bottom: 2px solid #2e2e2e;
         border-left: 0px;
     }
-}
-
-#nekochat-form{
-    margin-left: 10vw;
-    width: 80vw;
-}
-
-#nekochat-messages{
-    height: 55vh;
-    overflow-y: scroll;
-    font-family: SF Mono, monospace;
-}
-
-@media only screen and (orientation: portrait) {
-    #nekochat-messages{
-        height: 30vh;
-        font-size: 13px;
-        overflow-y: scroll;
-        font-family: SF Mono, monospace;
-    }
-}
-
-#username{
-    font-family: SF Mono, monospace;
-    background-color: black;
-    color: white;
-    border: 1px solid white;
-}
-
-#message{
-    font-family: SF Mono, monospace;
-    background-color: black;
-    color: white;
-    border: 1px solid white;
 }
 
 /* Add SF Mono font to site */
