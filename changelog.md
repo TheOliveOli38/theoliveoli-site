@@ -9,7 +9,7 @@ layout: base.njk
 ### 10/3/2025
 #### - Updated the [Hardware](/blog/posts/hardware) post again.
 #### - Some file cleanup
-#### - Removed obsolete links
+#### - Removed Nekochat (obsolete)
 #### - Readded Home Page navbar link
 
 ### 8/25/2025
