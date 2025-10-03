@@ -8,7 +8,7 @@ layout: base.njk
 
 ### 10/3/2025
 #### - Updated the [Hardware](/blog/posts/hardware) post again.
-#### - Update the name of post [Customizing macOS!](/blog/posts/macos-customize).
+#### - Update the name of post [Customizing macOS!](/blog/posts/macos-customize)
 #### - Some file cleanup
 #### - Changes in legacy sites
 #### - Removed Nekochat (obsolete)
