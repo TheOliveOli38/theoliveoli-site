@@ -6,12 +6,18 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 10/3/2025
+#### - Updated the [Hardware](/blog/posts/hardware) post again.
+#### - Some file cleanup
+#### - Removed obsolete links
+#### - Readded Home Page navbar link
+
 ### 8/25/2025
 #### - More minor wording updates
 #### - Webrings should slowly start working again
 
 ### 8/11/2025
-#### - Updated the [Hardware](/blog/posts/hardware.md) post!
+#### - Updated the [Hardware](/blog/posts/hardware) post!
 #### - Minor wording changes all around.
 #### - Removed 2 blog posts.
 
