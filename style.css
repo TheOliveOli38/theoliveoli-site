@@ -1,14 +1,10 @@
 body{
-background-image: url(assets/catalina.jpg);
-background-position: center;
-color: #1f1f1f;
-font-family: HelveticaNeue, Arial, Helvetica, sans-serif;
+background-color: #0d0d0d;
+color: white;
+margin-left: 10vw;
+margin-right: 10vw;
+font-family: SF Mono, monospace;
 font-display: fallback;
-}
-
-main {
-    margin-left: 10vw;
-    margin-right: 10vw;
 }
 
 /* Make images not flow over the designated content width */
@@ -19,7 +15,7 @@ img {
 
 /* Tell sidebar to stay put on the right */
 aside{
-    float: left;
+    float:right;
 }
 
 /* Change seperator element color for more subtle-ness */
@@ -51,7 +47,7 @@ hr{
         bottom: 0px;
         margin: bottom 0px;
         width: 100vw;
-        background-color: white;
+        background-color: #0d0d0d;
     }
     .flex-container > a {
         width: 15%;
@@ -64,11 +60,16 @@ hr{
     }
 }
 
-/* Change links to be black */
+/* Change links to be white */
 a{
     text-decoration: none;
     font-weight: bold;
-    color: black;
+    color: white;
+}
+
+/* Hover glow effect for links */
+a:hover{
+    text-shadow: 0px 0px 2px #0070c0, 0px 0px 5px #008bd4, 0px 0px 10px #00a2e5;
 }
 
 /* Statuscafe stuff */
@@ -82,29 +83,10 @@ a{
 /* Sidebar styling changes dependent on screen size */
 aside{
     max-width: 20vw;
-    margin-right: 2rem;
-    padding-right: 2rem;
+    margin-left: 2rem;
+    padding-left: 2rem;
+    border-left: 2px solid #2e2e2e;
     margin-bottom: 3rem;
-    background-image: blur(2px);
-}
-
-.top {
-    background-image: linear-gradient(to top, #cdcdcd, #e5e5e5);
-}
-
-.top > hr {
-    color: #c8c8c8;
-    border-color: #c8c8c8
-}
-
-.head {
-    margin-left: 10vw;
-    margin-right: 10vw;
-}
-
-.nav {
-    margin-left: 10vw;
-    margin-right: 10vw;
 }
 
 @media only screen and (orientation: portrait) {
@@ -133,16 +115,5 @@ aside{
 @font-face {
     font-family: SF Mono;
     src: url(assets/monob.otf);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: HelveticaNeue;
-    src: url(assets/HelveticaNeue-Roman.otf);
-}
-
-@font-face {
-    font-family: HelveticaNeue;
-    src: url(assets/HelveticaNeue-Bold.otf);
     font-weight: bold;
 }
