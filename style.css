@@ -37,6 +37,26 @@ hr{
     text-align: center;
 }
 
+.mobilesidebar {
+    visibility: hidden;
+    background-color: #0d0d0d;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    left: 0px;
+    bottom: 3.6rem;
+    width: 100vw;
+    margin: bottom 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-top: 2px solid #2e2e2e;
+}
+
+.mobilesidebar > a {
+    margin-top: 0.6rem;
+    margin-bottom: 0.5rem;
+}
+
 /* Show navbar on the bottom for mobile devices */
 @media only screen and (orientation: portrait) {
     .flex-container {
@@ -48,15 +68,19 @@ hr{
         margin: bottom 0px;
         width: 100vw;
         background-color: #0d0d0d;
+        border-top: 2px solid #2e2e2e;
     }
     .flex-container > a {
         width: 15%;
-        margin-top: 0.5rem;
+        margin-top: 0.6rem;
         margin-left: 0.5rem;
         margin-right: 0.5rem;
     }
+    .mobilesidebar {
+        visibility: visible;
+    }
     body {
-        padding-bottom: 3rem;
+        padding-bottom: 5rem;
     }
 }
 
@@ -95,6 +119,7 @@ aside{
         margin-right: 4vw;
     }
     aside{
+        display: none;
         max-width: 100%;
         margin-top: -2rem;
         padding-top: 5px;

@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="style.css">
+<head>
+<title>Oli's Internet Corner</title>
+<link rel="icon" type="image/png" href="/favicon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<div class="mobilesidebar">
+<a href="javascript:history.back()"><< Back</a>
+</div>
+<div class="navigation">
+{% include "nav.njk" %}
+</div>
+<main>
+{% include "status.html" %}
+{% include "lastfm.html" %}
+{% renderFile "./_includes/to-do.md" %}
+</main>

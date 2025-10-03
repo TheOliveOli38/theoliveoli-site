@@ -7,6 +7,7 @@ layout: base.njk
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
 ### 10/3/2025
+#### - Navbar now shows on the bottom on mobile.
 #### - Updated the [Hardware](/blog/posts/hardware) post again.
 #### - Update the name of post [Customizing macOS!](/blog/posts/macos-customize)
 #### - Some file cleanup
