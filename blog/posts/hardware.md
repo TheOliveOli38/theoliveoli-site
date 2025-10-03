@@ -1,7 +1,7 @@
 ---
 title: My Hardware
-datewritten: August 11th, 2025
-date: 2025-08-11
+datewritten: March 21st, 2025 (Upd. Oct 3, 2025)
+date: 2025-10-03
 desc: Here's the hardware I get to use daily, with little descriptions from yours truly.
 layout: posts.njk
 ---
