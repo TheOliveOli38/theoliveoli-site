@@ -8,8 +8,6 @@ layout: links.njk
 [YouTube channel](https://youtube.com/@TheOliveOli38)
 - Check out my videos on Mario Kart and Mario platformers!
 
-[Discord server](https://discord.gg/bT9yyBRpFm)
-
 [GitHub page](https://github.com/TheOliveOli38)
 - Check out my projects and this site's source code!
 
@@ -26,11 +24,8 @@ layout: links.njk
 [Spark-Web](https://darkosparko.nekoweb.org/)
 - Another really cool site. So good-looking, yet so functional!
 
-[jb's site](https://jb.is-a.dev/)
-- Made with Svelte! Very fancy animations. Button heaven!
-
-[PoyoOS](https://poyo.study/)
-- A computer... in your computer? WHAAAAAAT???
+[jb's site](https://jbc.lol/)
+- Made with Astro & Bun, owner of SSGRing!
 
 [Tofutush (The Iron Ragdoll)](https://tofutush.github.io/The-Iron-Ragdoll)
 - Stories set around various characters in a (very) big universe. Don't forget to check out the art, too!

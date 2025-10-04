@@ -10,6 +10,7 @@ layout: base.njk
 #### - Fixed mobile sidebar button not being present in the Links page.
 #### - Modified CSS to fix text cutoff on mobile.
 #### - Modified code to reduce title text size on mobile.
+#### - Removed invalid links and update links in the Links page.
 
 ### 10/3/2025
 #### - Navbar now shows on the bottom on mobile.
