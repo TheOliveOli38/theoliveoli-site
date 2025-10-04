@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-style.css">
 <head>
 <title>Oli's Internet Corner</title>
 <link rel="icon" type="image/png" href="/favicon.png">
@@ -9,9 +8,14 @@
 <header>
 <a href="/"><h1 style="text-align: center; margin-bottom: -10px; margin-top: 1.5vw; text-shadow: 0px 0px 10px #0070c0, 0px 0px 20px #008bd4, 0px 0px 30px #00a2e5; font-size: 45px">Oli's Internet Corner</h1></a>
 <h2 style="text-align: center">Welcome to my little personal site!</h2>
-{% include "nav.njk" %}
-<hr>
 </header>
+<div class="mobilesidebar">
+<a href="/sidebar">Sidebar >></a>
+</div>
+<div class="navigation">
+{% include "nav.njk" %}
+</div>
+<hr>
 <main>
 <aside>
     {% include "status.html" %}
@@ -19,12 +23,5 @@
     {% renderFile "./_includes/to-do.md" %}
 </aside>
 {{ content | safe}}
-<h2>Apartment Webring</h2>
-<div id='apartment-webring' style="margin-left: 0px; margin-right: auto">
-    <script type="text/javascript" src="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-variables.js"></script>
-    <script type="text/javascript" src="https://darkosparko.nekoweb.org/webrings/apartments-webring/apartment-webring-widget.js"></script>
-</div>
-<h2>Git Gud Ring</h2>
-<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 </main>
 </body>

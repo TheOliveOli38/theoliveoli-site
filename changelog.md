@@ -6,8 +6,12 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 10/4/2025
+#### - Fixed sidebar not being present in the Links page.
+
 ### 10/3/2025
 #### - Navbar now shows on the bottom on mobile.
+#### - Sidebar is now hidden behind a navbar option on mobile, to free up space.
 #### - Updated the [Hardware](/blog/posts/hardware) post again.
 #### - Update the name of post [Customizing macOS!](/blog/posts/macos-customize)
 #### - Some file cleanup
