@@ -52,6 +52,14 @@ hr{
     border-top: 2px solid #2e2e2e;
 }
 
+.mobiletitle {
+    display: none;
+}
+
+.title {
+    display: block;
+}
+
 .mobilesidebar > a {
     margin-top: 0.6rem;
     margin-bottom: 0.5rem;
@@ -78,6 +86,12 @@ hr{
     }
     .mobilesidebar {
         visibility: visible;
+    }
+    .mobiletitle {
+        display: block;
+    }
+    .title {
+        display: none;
     }
     body {
         padding-bottom: 6rem;
