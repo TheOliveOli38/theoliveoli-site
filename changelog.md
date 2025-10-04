@@ -7,7 +7,8 @@ layout: base.njk
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
 ### 10/4/2025
-#### - Fixed sidebar not being present in the Links page.
+#### - Fixed mobile sidebar button not being present in the Links page.
+#### - Modified CSS to fix text cutoff on mobile.
 
 ### 10/3/2025
 #### - Navbar now shows on the bottom on mobile.
