@@ -15,6 +15,9 @@ layout: links.njk
 [Nekoweb](https://nekoweb.org/)
 - Static site hosting, for humans and cats alike!
 
+[[jimwelsh]](https://jimwelsh.net)
+- ralsified
+
 [Library of Gurkistan's website](https://libraryofgurkistan.nekoweb.org/)
 - Visit my good (internet) friend's webpage!
 
@@ -28,7 +31,7 @@ layout: links.njk
 - Made with Astro & Bun, owner of SSGRing!
 
 [Tofutush (The Iron Ragdoll)](https://tofutush.github.io/The-Iron-Ragdoll)
-- Stories set around various characters in a (very) big universe. Don't forget to check out the art, too!
+- Stories set around various characters in a big universe. Don't forget to check out the art, too!
 
 [Neal.Fun!](https://neal.fun/)
 - Play some cool webgames!
