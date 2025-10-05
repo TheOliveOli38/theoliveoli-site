@@ -95,7 +95,7 @@ layout: base.njk
 #### &nbsp;&nbsp;&nbsp;&nbsp;- Updated writing
 #### &nbsp;&nbsp;&nbsp;&nbsp;- Added Tofutush to cool sites
 #### &nbsp;&nbsp;&nbsp;&nbsp;- Created changelog.
-#### - Moved legacy sites to branches `site-v1` and `site-v2` on GitHub.
+#### - Moved legacy sites to branches 'site-v1' and 'site-v2' on GitHub.
 
 ### 3/14/2025
 #### - Moved Blog Thing to 11ty.
