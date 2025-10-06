@@ -2,7 +2,7 @@
 title: I love old iOS
 datewritten: March 23rd, 2025
 date: 2025-03-23
-desc: Oli rambles about little details that make iOS 7 through 10 feel so much better than modern iOS.
+desc: I ramble about little details that make iOS 7 through 10 feel so much better than modern iOS.
 layout: posts.njk
 ---
 

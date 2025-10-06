@@ -2,7 +2,7 @@
 title: My Hackintosh experience
 datewritten: June 5th, 2025
 date: 2025-06-05
-desc: Oops, did I break Apple's ToS?
+desc: macOS on a non-Apple computer!
 layout: posts.njk
 ---
 
@@ -10,14 +10,14 @@ layout: posts.njk
 Now, I do not own a Mac. Do I wish I did though? Of course. So I guess I gotta cope somehow... with the OpenCore Bootloader, some good old DIY-ing and a whole lot of trial and error!
 
 ## The machine
-The computer I am running macOS on is my daily driver laptop, a Dell Latitude E5470. And yes, it's not the Latitude 5480 (which I mention as being my daily driver [here](/blog/posts/hardware), as it is now once again.)
+The computer I am running macOS on is my daily driver laptop, a Dell Latitude E5470, which I mention as being my daily driver [here](/blog/posts/hardware).
 
 These are its specs:\
 CPU: Intel Core i5-6300U\
 GPU: Intel HD 520\
 RAM: 2x8GB DDR4 2133MHz\
 Storage: 256GB Intenso SATA 3 SSD\
-Display: 1366x768 60Hz IPS\
+Display: 1920x1080 60Hz IPS (1366x768 at the time of writing)\
 Wi-Fi card: Intel Wireless AC 8260 (Wi-Fi + BT)
 
 ## Why macOS over Windows?

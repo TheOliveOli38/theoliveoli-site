@@ -8,6 +8,7 @@ layout: base.njk
 
 ### 10/6/2025
 #### - Added [[jimwelsh]](https://jimwelsh.net) to cool sites.
+#### - Updated post wording.
 
 ### 10/4/2025
 #### - Fixed mobile sidebar button not being present in the Links page.
