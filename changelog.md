@@ -6,6 +6,9 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 10/7/2025
+#### - Modified code to reduce subtitle text size on mobile.
+
 ### 10/6/2025
 #### - Added [[jimwelsh]](https://jimwelsh.net) to cool sites.
 #### - Updated post wording.
