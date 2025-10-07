@@ -1,4 +1,5 @@
-body{
+/* Basic styling */
+body {
 background-color: #0d0d0d;
 color: white;
 margin-left: 10vw;
@@ -7,36 +8,83 @@ font-family: SF Mono, monospace;
 font-display: fallback;
 }
 
+/* Change links to be white */
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+/* Hover glow effect for links */
+a:hover {
+    text-shadow: 0px 0px 2px #0070c0, 0px 0px 5px #008bd4, 0px 0px 10px #00a2e5;
+}
+
+/* Seperator element color change */
+hr {
+    color: #2e2e2e;
+    border-color: #2e2e2e;
+    border-style: solid;
+}
+
 /* Make images not flow over the designated content width */
 img {
     max-width: 100%;
     height: auto;
 }
 
-/* Tell sidebar to stay put on the right */
-aside{
-    float:right;
+/* Desktop sidebar styling */
+aside {
+    float: right;
+    max-width: 20vw;
+    margin-left: 2rem;
+    padding-left: 2rem;
+    border-left: 2px solid #2e2e2e;
+    margin-bottom: 3rem;
 }
 
-/* Change seperator element color for more subtle-ness */
-hr{
-    color: #2e2e2e;
-    border-color: #2e2e2e;
-    border-style: solid;
-}
-
-/* Used for navbar styling */
-.flex-container {
+/* Desktop navbar styling */
+.navcontainer {
     display: flex;
     justify-content: center;
     justify-content: space-between;
 }
 
-.flex-container > a {
+.navcontainer > a {
     margin-bottom: 0.5rem;
     text-align: center;
 }
 
+/* Element styling + Hide mobile elements, show desktop elements */
+.mobiletitle {
+    display: none;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: 1.5vw;
+    text-shadow: 0px 0px 5px #0070c0, 0px 0px 7.5px #008bd4, 0px 0px 15px #00a2e5;
+    font-size: 30px;
+}
+
+.mobilesubtitle {
+    display: none;
+    text-align: center;
+}
+
+.title {
+    display: block;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: 1.5vw;
+    text-shadow: 0px 0px 10px #0070c0, 0px 0px 20px #008bd4, 0px 0px 30px #00a2e5;
+    font-size: 45px;
+}
+
+.subtitle {
+    display: block;
+    text-align: center;
+}
+
+/* Mobile sidebar button positioning and styling */
 .mobilesidebar {
     visibility: hidden;
     background-color: #0d0d0d;
@@ -51,46 +99,28 @@ hr{
     margin-right: 0px;
     border-top: 2px solid #2e2e2e;
 }
-
-.mobiletitle {
-    display: none;
-}
-
-.mobilesubtitle {
-    display: none;
-}
-
-.title {
-    display: block;
-}
-
-.subtitle {
-    display: block;
-}
-
 .mobilesidebar > a {
     margin-top: 0.6rem;
     margin-bottom: 0.5rem;
 }
 
-/* Show navbar on the bottom for mobile devices */
+/* Mobile styling */
 @media only screen and (orientation: portrait) {
-    .flex-container {
-        position: fixed;
-        left: 0px;
-        margin-left: 0vw;
-        margin-right: 0vw;
-        bottom: 0px;
-        margin: bottom 0px;
-        width: 100vw;
-        background-color: #0d0d0d;
-        border-top: 2px solid #2e2e2e;
+    /* Adjust body container padding and margins to accommodate for screen size and bottom nav */
+    body {
+        padding-bottom: 6rem;
+        margin-left: 4vw;
+        margin-right: 4vw;
     }
-    .flex-container > a {
-        width: 15%;
-        margin-top: 0.6rem;
-        margin-left: 0.5rem;
-        margin-right: 0.5rem;
+    /* Hide desktop elements, show mobile elements */
+    aside{
+        display: none;
+    }
+    .title {
+        display: none;
+    }
+    .subtitle {
+        display: none;
     }
     .mobilesidebar {
         visibility: visible;
@@ -101,30 +131,27 @@ hr{
     .mobilesubtitle {
         display: block;
     }
-    .title {
-        display: none;
+    /* Mobile navbar code */
+    .navcontainer {
+        position: fixed;
+        left: 0px;
+        margin-left: 0vw;
+        margin-right: 0vw;
+        bottom: 0px;
+        margin: bottom 0px;
+        width: 100vw;
+        background-color: #0d0d0d;
+        border-top: 2px solid #2e2e2e;
     }
-    .subtitle {
-        display: none;
-    }
-    body {
-        padding-bottom: 6rem;
+    .navcontainer > a {
+        width: 15%;
+        margin-top: 0.6rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
     }
 }
 
-/* Change links to be white */
-a{
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
-}
-
-/* Hover glow effect for links */
-a:hover{
-    text-shadow: 0px 0px 2px #0070c0, 0px 0px 5px #008bd4, 0px 0px 10px #00a2e5;
-}
-
-/* Statuscafe stuff */
+/* Statuscafe widget styling */
 #statuscafe-username {
     font-size: 16px;
 }
@@ -132,34 +159,7 @@ a:hover{
     font-size: 16px;
 }
 
-/* Sidebar styling changes dependent on screen size */
-aside{
-    max-width: 20vw;
-    margin-left: 2rem;
-    padding-left: 2rem;
-    border-left: 2px solid #2e2e2e;
-    margin-bottom: 3rem;
-}
-
-@media only screen and (orientation: portrait) {
-    body{
-        margin-left: 4vw;
-        margin-right: 4vw;
-    }
-    aside{
-        display: none;
-        max-width: 100%;
-        margin-top: -2rem;
-        padding-top: 5px;
-        margin-bottom: 1rem;
-        padding-left: 0px;
-        margin-left: 0px;
-        border-bottom: 2px solid #2e2e2e;
-        border-left: 0px;
-    }
-}
-
-/* Add SF Mono font to site */
+/* SF Mono font declaration */
 @font-face {
     font-family: SF Mono;
     src: url(assets/mono.otf);

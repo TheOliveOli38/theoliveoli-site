@@ -8,6 +8,7 @@ layout: base.njk
 
 ### 10/7/2025
 #### - Modified code to reduce subtitle text size on mobile.
+#### - Big CSS cleanup. Reordered, cleaned and moved CSS properties in the HTML code over.
 
 ### 10/6/2025
 #### - Added [[jimwelsh]](https://jimwelsh.net) to cool sites.
