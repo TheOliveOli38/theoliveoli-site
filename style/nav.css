@@ -4,35 +4,28 @@
     justify-content: center;
     justify-content: space-between;
 }
-
 .navcontainer > a {
     margin-bottom: 0.5rem;
     text-align: center;
 }
-
 /* Hide mobile sidebar button on desktop */
 .mobilesidebar {
     visibility: hidden;
 }
-
 /* Mobile navbar code */
 @media only screen and (orientation: portrait) {
     .navcontainer {
         position: fixed;
-        left: 0px;
-        margin-left: 0vw;
-        margin-right: 0vw;
-        bottom: 0px;
-        margin: bottom 0px;
-        width: 100vw;
+        left: 0;
+        margin: auto 0 0 0;
+        bottom: 0;
+        width: 100%;
         background-color: #0d0d0d;
         border-top: 2px solid #2e2e2e;
     }
     .navcontainer > a {
         width: 15%;
-        margin-top: 0.6rem;
-        margin-left: 0.5rem;
-        margin-right: 0.5rem;
+        margin: 0.6rem 0.5rem 0.5rem;
     }
     .mobilesidebar {
         visibility: visible;
@@ -40,16 +33,13 @@
         display: flex;
         justify-content: center;
         position: fixed;
-        left: 0px;
+        left: 0;
         bottom: 3.6rem;
-        width: 100vw;
-        margin: bottom 0px;
-        margin-left: 0px;
-        margin-right: 0px;
+        width: 100%;
+        margin: auto 0 0 0;
         border-top: 2px solid #2e2e2e;
     }
     .mobilesidebar > a {
-        margin-top: 0.6rem;
-        margin-bottom: 0.5rem;
+        margin: 0.6rem auto 0.5rem;
     }
 }

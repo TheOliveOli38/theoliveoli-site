@@ -2,12 +2,10 @@
 aside {
     float: right;
     max-width: 20vw;
-    margin-left: 2rem;
+    margin: auto auto 3rem 2rem;
     padding-left: 2rem;
     border-left: 2px solid #2e2e2e;
-    margin-bottom: 3rem;
 }
-
 /* Hide desktop sidebar */
 @media only screen and (orientation: portrait) {
     aside {

@@ -7,9 +7,8 @@ layout: base.njk
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
 ### 10/7/2025
-#### - CSS has been SPLIT! Now 4 different files. Saves resources in some cases.
-#### - Big CSS cleanup. Reordered, cleaned and moved CSS properties in the HTML code over.
-#### - Modified code to reduce subtitle text size on mobile.
+#### - CSS has been SPLIT and optimized! Now 4 different files. Saves resources.
+#### - Various other small CSS changes to improve site design.
 
 ### 10/6/2025
 #### - Added [[jimwelsh]](https://jimwelsh.net) to cool sites.
