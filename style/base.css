@@ -162,11 +162,11 @@ aside {
 /* SF Mono font declaration */
 @font-face {
     font-family: SF Mono;
-    src: url(assets/mono.otf);
+    src: url(/assets/mono.otf);
 }
 
 @font-face {
     font-family: SF Mono;
-    src: url(assets/monob.otf);
+    src: url(/assets/monob.otf);
     font-weight: bold;
 }

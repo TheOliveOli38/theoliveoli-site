@@ -3,8 +3,7 @@ module.exports = async function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/blog/*");
     eleventyConfig.addPassthroughCopy("assets/webring/*");
     eleventyConfig.addPassthroughCopy("favicon.png");
-    eleventyConfig.addPassthroughCopy("style.css");
-    eleventyConfig.addPassthroughCopy("style-blog.css");
+    eleventyConfig.addPassthroughCopy("style/*");
     
     const { EleventyRenderPlugin } = await import("@11ty/eleventy");
 	  eleventyConfig.addPlugin(EleventyRenderPlugin);
