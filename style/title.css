@@ -1,0 +1,44 @@
+/* Element styling + Hide mobile elements, show desktop elements */
+.mobiletitle {
+    display: none;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: 1.5vw;
+    text-shadow: 0px 0px 5px #0070c0, 0px 0px 7.5px #008bd4, 0px 0px 15px #00a2e5;
+    font-size: 30px;
+}
+
+.mobilesubtitle {
+    display: none;
+    text-align: center;
+}
+
+.title {
+    display: block;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: 1.5vw;
+    text-shadow: 0px 0px 10px #0070c0, 0px 0px 20px #008bd4, 0px 0px 30px #00a2e5;
+    font-size: 45px;
+}
+
+.subtitle {
+    display: block;
+    text-align: center;
+}
+
+/* Hide desktop elements, show mobile elements */
+@media only screen and (orientation: portrait) {
+    .title {
+        display: none;
+    }
+    .subtitle {
+        display: none;
+    }
+    .mobiletitle {
+        display: block;
+    }
+    .mobilesubtitle {
+        display: block;
+    }
+}
