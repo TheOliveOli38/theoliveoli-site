@@ -6,6 +6,9 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 10/9/2025
+#### - Further mobile sidebar tweaks (when does it end??????)
+
 ### 10/8/2025
 #### - Added new blog post: [Optimizing the site CSS](/blog/posts/css-optimization)
 #### - More mobile sidebar modifications.
